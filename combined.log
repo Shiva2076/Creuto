@@ -1,0 +1,47 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T09:47:36.986Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T09:47:52.942Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T09:50:56.391Z"}
+{"level":"info","message":"::1 - - [17/May/2025:09:51:42 +0000] \"POST /books HTTP/1.1\" 201 108 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T09:51:42.099Z"}
+{"level":"info","message":"::1 - - [17/May/2025:09:51:54 +0000] \"GET /books HTTP/1.1\" 200 110 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T09:51:54.306Z"}
+{"level":"info","message":"::1 - - [17/May/2025:09:52:15 +0000] \"POST /books/import HTTP/1.1\" 400 30 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T09:52:15.986Z"}
+{"level":"info","message":"::1 - - [17/May/2025:09:53:37 +0000] \"GET /books/3b69fda8-81c5-4679-8c55-897354613d91 HTTP/1.1\" 200 108 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T09:53:37.656Z"}
+{"level":"info","message":"::1 - - [17/May/2025:09:55:31 +0000] \"POST /books/import HTTP/1.1\" 200 122 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T09:55:31.401Z"}
+{"level":"info","message":"::1 - - [17/May/2025:09:56:01 +0000] \"GET /books HTTP/1.1\" 200 331 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T09:56:01.745Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:03:21 +0000] \"GET /books HTTP/1.1\" 200 331 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:03:21.481Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:03:31 +0000] \"POST /books HTTP/1.1\" 201 108 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:03:31.570Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:03:44 +0000] \"PUT /books/1 HTTP/1.1\" 404 28 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:03:44.407Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:04:05 +0000] \"GET /books/1af3028f-3792-4c78-ad8f-bb3934b006db HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:04:05.923Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:04:22 +0000] \"PUT /books/1af3028f-3792-4c78-ad8f-bb3934b006db HTTP/1.1\" 200 121 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:04:22.617Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:04:30 +0000] \"DELETE /books/1af3028f-3792-4c78-ad8f-bb3934b006db HTTP/1.1\" 204 - \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:04:30.603Z"}
+{"level":"info","message":"::1 - - [17/May/2025:10:04:52 +0000] \"POST /books/import HTTP/1.1\" 200 122 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-17T10:04:52.235Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:07:19.453Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:08:40.603Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:09:03.377Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:09:10.508Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:09:27.096Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:09:42.571Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:09:54.134Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:10:00.616Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:10:13.665Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:10:19.297Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:10:23.163Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:10:38.395Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:13:29.669Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:16:29.560Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:16:58.746Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:22:02.002Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:32:00.618Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T10:36:13.256Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T14:04:17.285Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T14:06:38.202Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T14:06:49.586Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:51:38.049Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:51:39.623Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:51:44.329Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:51:45.705Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:52:38.216Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:53:27.145Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:53:41.216Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:53:52.687Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:54:48.505Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-05-17T15:56:29.474Z"}
